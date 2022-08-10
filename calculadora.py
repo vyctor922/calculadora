@@ -11,7 +11,7 @@ def calculate():
     number_2 = int(input("Enter your second number: "))
 
     if operation == '+':
-        print("{number_1} + {number_2} =", number_1+number_2)
+        print(f"{number_1} + {number_2} =", number_1+number_2)
 
     elif operation == '-':
         print(f"{number_1} - {number_2} =", number_1-number_2)
