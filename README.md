@@ -1,2 +1,2 @@
 # calculadora
-Repositório da matéria de fundamentos do projeto WebAcademy2 
+Repositório para aula da matéria de fundamentos do projeto WebAcademy2 
