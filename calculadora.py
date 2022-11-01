@@ -24,6 +24,9 @@ def calculate():
 
     else:
         print('You have not typed a valid operator, please run the program again.')
+    
+    #Add again() function to calculate() function
+    again()
 
 def again():
     calc_again = input(''' 
